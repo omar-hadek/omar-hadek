@@ -6,15 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Shop App by Flutter and firebase]**
-
-- 🌱 I’m currently learning **Flutter Development .**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 🔭 Specialist Flutter Specialist
 
 - 📫 How to reach me **omar.hadek7@gmail.com**
-
-- ⚡ hobies  **Fishing and Work out**
 
 ## 🚀 Languages and Tools:
 
