@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Specialist Flutter Specialist
+- 🔭 Specialist Mobile developer 
 
 - 📫 How to reach me **omar.hadek7@gmail.com**
 
