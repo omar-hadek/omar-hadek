@@ -40,11 +40,11 @@
 
 
 <br/>
-<br/>
+<!-- <br/>
 
 <a href="https://github.com/omar-hadek/github-readme-activity-graph"><img alt="Omar HADEK's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=omar-hadek&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
+<br/> -->
 <br/>
 
 ## Connect with me:
