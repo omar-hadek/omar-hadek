@@ -1,7 +1,5 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<h1 align="center">Hey There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Omar</h1>
-<h3 align="center"> I'm a Flutter developer</h3>
+<h3 align="center">Mobile developer</h3>
 
 
 ## 🙋‍♂️ About Me
