@@ -5,7 +5,7 @@
 
 - 🔭 Specialist Mobile developer 
 
-- 📫 How to reach me **omar.hadek7@gmail.com**
+- 📫 How to reach me **omar.hadek1@gmail.com**
 
 ## 🚀 Languages and Tools:
 
