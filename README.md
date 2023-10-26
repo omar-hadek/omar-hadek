@@ -35,7 +35,7 @@
     <tr>
      <td>
 			<h3>Webevents App</h3>
-            <img  src="https://drive.google.com/uc?id=15sD1-I5A9lTA-A_dOn61VjnEQM8n-wqM" alt="Webevents App on Google Play" />
+            <img  src="https://drive.google.com/uc?id=1Vy4fpWLJXdSad1i9Jy3RBbeKdoDDtf0M" alt="Webevents App on Google Play" />
 			<p>IOS & ANDROID Application for digital events
 		</td>
 		<td>
