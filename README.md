@@ -46,6 +46,20 @@
 			</div>
 		</td>	
 	</tr>
+    <tr>
+     <td>
+			<h3>Webevents App</h3>
+            <img  src="https://drive.google.com/uc?id=1nHyuvw6rBRaoKS1KLk_NbsjDAhgY3oSX/view" alt="Webevents App on Google Play" />
+			<p>IOS & ANDROID Fitness club Management App
+		</td>
+		<td>
+<!-- 			<div>
+				<a href="https://play.google.com/store/apps/details?id=com.myfair.webevents">
+                <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Myfair scan on Google Play" />
+                </a>
+			</div> -->
+		</td>	
+	</tr>
 	<tr>
 		<td>
 			<h3>Myfair Scan</h3>
