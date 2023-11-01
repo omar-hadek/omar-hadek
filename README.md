@@ -35,7 +35,7 @@
     <tr>
 		<td>
 			<h3>FitPlanet</h3>
-            <img src="https://drive.google.com/uc?id=1nHyuvw6rBRaoKS1KLk_NbsjDAhgY3oSX" alt="Myfair scan on Google Play" />
+            <img src="https://drive.google.com/uc?id=1nHyuvw6rBRaoKS1KLk_NbsjDAhgY3oSX" alt="Preview Image" />
 			<p> ANDROID & IOS Fitness Club Management Application
 		</td>
 		<td>
