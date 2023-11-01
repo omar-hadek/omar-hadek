@@ -33,6 +33,20 @@
 		<th>Links</th>
 	</tr>
     <tr>
+		<td>
+			<h3>FitPlanet</h3>
+            <img src="https://drive.google.com/uc?id=1nHyuvw6rBRaoKS1KLk_NbsjDAhgY3oSX" alt="Myfair scan on Google Play" />
+			<p> ANDROID & IOS Fitness Club Management Application
+		</td>
+		<td>
+			<!-- <div>
+				<a href="https://play.google.com/store/apps/details?id=com.webevents.webevents_app">
+                <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Myfair scan on Google Play" />
+                </a>
+			</div> -->
+		</td>
+	</tr>
+    <tr>
      <td>
 			<h3>Webevents App</h3>
             <img  src="https://drive.google.com/uc?id=1Vy4fpWLJXdSad1i9Jy3RBbeKdoDDtf0M" alt="Webevents App on Google Play" />
