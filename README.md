@@ -39,11 +39,11 @@
 			<p> ANDROID & IOS Fitness Club Management Application
 		</td>
 		<td>
-			<!-- <div>
-				<a href="https://play.google.com/store/apps/details?id=com.webevents.webevents_app">
-                <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Myfair scan on Google Play" />
+			<div>
+				<a href="https://youtu.be/w_eHxmYXPTk">
+                <img width="200px" src="https://png.pngtree.com/png-vector/20230225/ourmid/pngtree-youtube-icon-social-media-png-image_6618458.png" alt="Youtube live preview" />
                 </a>
-			</div> -->
+			</div>
 		</td>
 	</tr>
     <tr>
