@@ -56,7 +56,7 @@
 		<td>
 			<div>
 				<a href="https://youtu.be/RvaBbCz55_0">
-                <img width="200px" src="https://png.pngtree.com/png-vector/20230225/ourmid/pngtree-youtube-icon-social-media-png-image_6618458.png" alt="Youtube live preview" />
+                <img width="200px" src="https://png.pngtree.com/png-vector/20230225/ourmid/pngtree-youtube-icon-social-media-png-image_6618458.png" alt="Youtube live preview ttt" />
                 </a>
 			</div>
 		</td>
