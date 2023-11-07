@@ -47,6 +47,21 @@
 		</td>
 	</tr>
     <tr>
+	     <tr>
+		<td>
+			<h3>TIC TAC TOE</h3>
+            <img src="https://drive.google.com/uc?id=14SwIRuJeabD1KBb7HX3XOBbddMBb7BrW" alt="tic tac toe Image" />
+			<p> Tic Tac Toe game Application
+		</td>
+		<td>
+			<div>
+				<a href="https://youtu.be/RvaBbCz55_0">
+                <img width="200px" src="https://png.pngtree.com/png-vector/20230225/ourmid/pngtree-youtube-icon-social-media-png-image_6618458.png" alt="Youtube live preview" />
+                </a>
+			</div>
+		</td>
+	</tr>
+    <tr>
      <td>
 			<h3>Webevents App</h3>
             <img  src="https://drive.google.com/uc?id=1Vy4fpWLJXdSad1i9Jy3RBbeKdoDDtf0M" alt="Webevents App on Google Play" />
