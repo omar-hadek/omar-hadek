@@ -40,7 +40,7 @@
 		</td>
 		<td>
 			<div>
-				<a href="https://youtu.be/-j7rovjh0KM">
+				<a href="https://youtu.be/jvSJmmSQFK4">
                 <img width="200px" src="https://png.pngtree.com/png-vector/20230225/ourmid/pngtree-youtube-icon-social-media-png-image_6618458.png" alt="Youtube live preview" />
                 </a>
 			</div>
@@ -55,7 +55,7 @@
 		</td>
 		<td>
 			<div>
-				<a href="https://youtu.be/RvaBbCz55_0">
+				<a href="https://youtu.be/dQJtS2IXvl0">
                 <img width="200px" src="https://png.pngtree.com/png-vector/20230225/ourmid/pngtree-youtube-icon-social-media-png-image_6618458.png" alt="Youtube live preview ttt" />
                 </a>
 			</div>
